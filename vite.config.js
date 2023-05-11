@@ -18,3 +18,4 @@
         // Se agrega la base carpeta donde se encuentra el proyecto
         base: '/vite-start-kit/',
     });
+    // 
